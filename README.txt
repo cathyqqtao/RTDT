@@ -7,12 +7,11 @@ For the detailed description of the data, refer to the Descrition.txt files insi
 
 The Archive consists of the following parts:
 
-Flu_simulation.zip
-------------------
+* Flu_simulation.zip
 This archive contains datasets simulated based on influenza A sequences. 
 This archive also contains example files to run RTDT, LSD, TreeTime, treedater, and MCMCTree. 
  
-HIV_simualtion.zip
+* HIV_simualtion.zip
 -------------------
 This archive contains datasets simulated based on subtype F HIV-1 sequences. 
 This archive also contains example files to run RTDT, LSD, TreeTime, treedater, and BEAST. 
